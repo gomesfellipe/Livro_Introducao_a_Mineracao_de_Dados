@@ -1,4 +1,4 @@
-# Livro_Introducao_a_Mineracao_de_Dados
+# Livro: Introducao à Mineração de Dados
 
 ![](https://images-na.ssl-images-amazon.com/images/I/518mW9lyunL.jpg)
 
